@@ -11,8 +11,8 @@ Predicting the price of diamonds depends on multiple features such as the color,
 5. x: length in mm. (0-10.74)
 6. y: width in mm. (0-58.9)
 7. z: depth in mm. (0-31.8)
-8. depth: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
-9. table: width of top of diamond relative to widest point (43--95)
+8. depth: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43-79)
+9. table: width of top of diamond relative to widest point (43-95)
 10. Price: the Price of the Diamond
 
 ![image](https://user-images.githubusercontent.com/73304837/194354941-436e18ef-136f-4096-bcbd-a44bb2e5522c.png)
